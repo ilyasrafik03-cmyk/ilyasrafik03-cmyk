@@ -20,14 +20,11 @@ I'm a software developer with a strong passion for creating visually appealing a
 <a href="https://www.instagram.com/ilyas_4136?igsh=MWh6aGhsdGI1eDBhbQ=="><img
     src="https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white"
     alt="Facebook"></a>
-    src="https://img.shields.io/badge/-YouTube-c4302b?style=flat&logo=youtube&logoColor=white" alt="Facebook"></a>
-</p>
 
 ### 🛠 &nbsp;Technologies that I work with
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
