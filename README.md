@@ -20,7 +20,6 @@ I'm a software developer with a strong passion for creating visually appealing a
 <a href="https://www.instagram.com/ilyas_4136?igsh=MWh6aGhsdGI1eDBhbQ=="><img
     src="https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white"
     alt="Facebook"></a>
-<a href="https://www.youtube.com/c/MohamedElkashef15"><img
     src="https://img.shields.io/badge/-YouTube-c4302b?style=flat&logo=youtube&logoColor=white" alt="Facebook"></a>
 </p>
 
@@ -30,7 +29,6 @@ I'm a software developer with a strong passion for creating visually appealing a
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&layout=compact)
